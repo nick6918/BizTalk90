@@ -1,0 +1,38 @@
+{
+	"title": "欢迎收听我们的播客",
+	"audio": {
+		"download": "https://aphid.fireside.fm/d/1437767933/6c0a21d5-fdc1-4577-8204-f1ab676dd178/f1ed2831-a504-4137-bc22-a7c46035946d.mp3",
+		"online": "http://music.163.com/#/program?id=1366640595"
+	},
+	"summary": "本期的四个主题看似是没啥联系的，其实……真的没啥联系……作为 JJ 从牢小黑屋里放出来之后录的第一期，今天我们就先集中聊一下在 JJ「消失」的几个礼拜中发生的一些设计热点新闻吧~ 特别抱歉的是其中一个主题 Keynote / PPT 在后半阶段当中因为涉及太多八卦，最后只得剪得几乎不剩了……希望等哪天两个主播都离职的时候看看能不能放出来吧~
+
+请注意本期 26:50 左右有高能，虽然已经调低了音量，但还是善意提醒一下容易被吓到的听众~如果阁下因此而收到伤害，我台只负部分责任哦~
+
+PS. 某度公司 UXC 上海分部招一枚可长期实习的视觉实习生（means 你是 19 或 20 年毕业的），支持的产品是百度地图，工作内容是我（JJ）做啥，你帮我一起做啥，有兴趣的朋友欢迎来投：yingjunjiu@baidu.com",
+	"content": " ",
+	"meta": {
+		"time": "Monday 2017/11/04",
+		"length": "1 hr 20 mins"
+	},
+	"reference":{
+		"Nic的博客" : "nickiwei.github.io"
+	},
+	"hosts": [
+		{
+			"name": "Nick",
+			"intro": "Baidu算法工程师",
+			"base": "上海, 中国",
+			"link" : "nickiwei.github.io"
+		}, 
+		{
+			"name": "Gary",
+			"intro": "某国有大型投资公司行研部",
+			"base": "北京, 中国",
+			"link" : "garychen@outlook.com"
+		}
+	],
+	"contact":{
+		"audience": "feedback_biztalk90@yeah.net",
+		"biz" : "business_biztalk90@yeah.net"
+	}
+}
